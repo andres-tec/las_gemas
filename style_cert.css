@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(216, 236, 236);
+    padding: 20px;
+}
+
+body img {
+    border-radius: 10px;
+
+}
+
+
+body a {
+    color: red;
+    font-size: 16px;
+}
